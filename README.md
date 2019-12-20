@@ -35,7 +35,7 @@ The fun tool to create poisoned files
 * [XssPy](https://github.com/faizann24/XssPy)
 * [ezXSS](https://github.com/ssl/ezXSS)
 Tools to learn XSS
-* [xssor2] (https://github.com/evilcos/xssor2)
+* [xssor2](https://github.com/evilcos/xssor2)
 * [AwesomeXSS](https://github.com/s0md3v/AwesomeXSS)
 * [xssValidator](https://github.com/nVisium/xssValidator)
 * [xsshunter](https://github.com/mandatoryprogrammer/xsshunter)
